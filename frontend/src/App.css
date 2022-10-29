@@ -1,0 +1,21 @@
+.card-grid {
+  font-family: 'Work Sans', sans-serif;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  flex-basis: 30%;
+  justify-content: center;
+  overflow-y: scroll;
+  
+  padding-top:40px;
+  height: 60vh;
+  padding-bottom: 40px;
+
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0px);
+
+   -ms-overflow-style: none; /* for Internet Explorer, Edge */
+   scrollbar-width: none; /* for Firefox */
+   overflow-y: scroll;
+}

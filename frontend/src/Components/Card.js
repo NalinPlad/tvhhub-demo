@@ -1,3 +1,5 @@
 function Card(props) {
-  return <div></div>;
+  return <div class="card"></div>;
 }
+
+export default Card;
