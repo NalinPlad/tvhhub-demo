@@ -35,6 +35,29 @@
             "bio": "Helps users connect to local businesses." 
         },
         {
+            "name": "Tri-City Volunteers",
+            "img": "https://www.foodpantries.org/gallery/no_photo_3.jpg",
+            "creator": "Grace Draper",
+            "link": "https://www.tri-cityvolunteers.org/",
+            "instagram": "https://www.instagram.com/tricityvolunteers/",
+            "bio": "A nonprofit that distributes food, clothing and household items to families in desperate need."
+        },
+        {
+            "name": "Hack the Hood",
+            "img": "https://imprintnews.org/wp-content/uploads/2016/05/Image-5_Downing.png",
+            "creator": "Mary Fuller",
+            "link": "https://www.hackthehood.org/",
+            "instagram": "https://www.instagram.com/hackthehood/",
+            "bio": "Hack the hood provides youth and communities of color with tech skill-building programs and career navigation support that are grounded in justice and ensure economic mobility."
+        },
+        {
+            "name": "Tri-Valley Hackathon",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/trivalleyhackathonlogo.png?raw=true",
+            "creator": "Rahul Datta",
+            "link": "https://www.trivalleyhacks.org/",
+            "bio": "Tri-Valley hacks is the first 24 hour hackathon in Dublin-Pleasanton-Livermore area for high schoolers."
+        },
+        {
             "name": "Danimals",
             "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
             "creator": "Piffle Inc.",
@@ -73,29 +96,6 @@
             "link": "https://code.visualstudio.com/",
             "github": "https://github.com/microsoft/vscode",
             "bio": "Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle."
-        },
-        {
-            "name": "Tri-City Volunteers",
-            "img": "https://www.foodpantries.org/gallery/no_photo_3.jpg",
-            "creator": "Grace Draper",
-            "link": "https://www.tri-cityvolunteers.org/",
-            "instagram": "https://www.instagram.com/tricityvolunteers/",
-            "bio": "A nonprofit that distributes food, clothing and household items to families in desperate need."
-        },
-        {
-            "name": "Hack the Hood",
-            "img": "https://imprintnews.org/wp-content/uploads/2016/05/Image-5_Downing.png",
-            "creator": "Mary Fuller",
-            "link": "https://www.hackthehood.org/",
-            "instagram": "https://www.instagram.com/hackthehood/",
-            "bio": "Hack the hood provides youth and communities of color with tech skill-building programs and career navigation support that are grounded in justice and ensure economic mobility."
-        },
-        {
-            "name": "Tri-Valley Hackathon",
-            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/trivalleyhackathonlogo.png?raw=true",
-            "creator": "Rahul Datta",
-            "link": "https://www.trivalleyhacks.org/",
-            "bio": "Tri-Valley hacks is the first 24 hour hackathon in Dublin-Pleasanton-Livermore area for high schoolers."
         },
         {
             "name": "Hkkr.in",
