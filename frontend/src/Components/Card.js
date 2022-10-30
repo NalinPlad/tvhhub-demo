@@ -1,4 +1,5 @@
 import "./Card.css";
+import { ReactComponent as OpenExternal } from "../assets/Vector.svg";
 
 function Card(props) {
   return (
@@ -11,13 +12,13 @@ function Card(props) {
         <div className="bottomRow">
           <p className="cardCreator">{props.creator}</p>
           <div className="external">
-            <a href={props.link}>
-              <img src={require("../assets/Vector.png")} />
-            </a>
             <a href={props.github}>
               <img
                 src={require("../assets/GitHub-Mark-Light-120px-plus 1.png")}
               />
+            </a>
+            <a href={props.link}>
+              <OpenExternal />
             </a>
           </div>
         </div>
