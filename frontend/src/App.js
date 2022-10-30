@@ -12,19 +12,17 @@ function App() {
     )
       .then((res) => res.json())
       .then((data) => {
-        console.log(data);
-        const projects = data.projects;
-        for (let i = 0; i < projects.length; i++) {
-          _cards.push(<Card>projects[i]</Card>);
+        for (let i = 0; i < data.projects.length; i++) {
+          _cards.push(<Card {...data.projects[i]} />);
         }
-      });
 
-    setCards(_cards);
+        setCards(_cards);
+      });
   }, []);
 
   return (
     <div className="App">
-      <div className="card-grid">{cards}</div>
+      <div>{cards}</div>
     </div>
   );
 }
