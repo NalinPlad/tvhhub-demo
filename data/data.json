@@ -2,10 +2,10 @@
     "projects": [
         {
             "name": "Evergreen",
-            "img": "",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/Evergreen.png?raw=true",
             "creator": "Subham Patilsd",
             "github": "https://github.com/ShubhamPatilsd/evergreen",
-            "bio": "A way to get fresh produce from your community."
+            "bio": "The best way to quickly get fresh produce from neighbors in your community."
         },
         {
             "name": "Easy Gas",
@@ -23,10 +23,18 @@
         },
         {
             "name": "Lemon Sun Sage",
-            "img": "",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/maps.png?raw=true",
             "creator": "Amador Dons",
             "github": "https://github.com/sohamgarg2020/TriValley-Hacks",
             "bio": "A map based carpooling service."
+        },
+        {
+            "name": "CAL Fire Map",
+            "img": "https://image-renderer.sinclairstoryline.com/prod/image-renderer/16x9/full/1015/center/80/8e5ebe49-72a2-409d-a206-35be2b7bc487-large16x9_e715d5cdde814f63a121e1b3802f8be7medium16x9_AP20251011177050.jpg",
+            "creator": "CA.gov",
+            "link": "https://www.fire.ca.gov/incidents/",
+            "instagram": "https://www.instagram.com/calfire",
+            "bio": "A live map displaying current fire incidents in California run by Cal Fire."
         },
         {
             "name": "Bond",
@@ -45,7 +53,7 @@
         {
             "name": "City of Pleasanton Learning Resources",
             "img": "https://www.foodpantries.org/gallery/no_photo_3.jpg",
-            "creator": "Grace Draper",
+            "creator": "City of Pleasanton",
             "link": "https://www.cityofpleasantonca.gov/iwantto/learn/default.asp/",
             "bio": "Get information on many topics of life in Pleasanton, and learn about different services available to you."
         },
@@ -79,14 +87,6 @@
             "link": "https://imagemagick.org/index.php",
             "github": "https://github.com/ImageMagick/ImageMagick",
             "bio": "Use ImageMagick to create, edit, compose, or convert digital images."
-        },
-        {
-            "name": "MonkeyType",
-            "img": "https://github.com/monkeytypegame/monkeytype/raw/master/frontend/static/images/githubbanner2.png?raw=true",
-            "creator": "Miodec",
-            "link": "https://monkeytype.com/",
-            "github": "https://github.com/monkeytypegame/monkeytype",
-            "bio": "The most customizable typing website with a minimalistic design and a ton of features."
         },
         {
             "name": "The Eternal Jukebox",
