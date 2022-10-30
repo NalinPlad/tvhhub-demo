@@ -89,14 +89,6 @@
             "bio": "Use ImageMagick to create, edit, compose, or convert digital images."
         },
         {
-            "name": "MonkeyType",
-            "img": "https://github.com/monkeytypegame/monkeytype/raw/master/frontend/static/images/githubbanner2.png?raw=true",
-            "creator": "Miodec",
-            "link": "https://monkeytype.com/",
-            "github": "https://github.com/monkeytypegame/monkeytype",
-            "bio": "The most customizable typing website with a minimalistic design and a ton of features."
-        },
-        {
             "name": "The Eternal Jukebox",
             "img": "https://eternalbox.dev/files/eternal.png",
             "creator": "Paul Lemere",
