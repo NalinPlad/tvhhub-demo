@@ -1,6 +1,7 @@
 import "./Card.css";
 import { ReactComponent as OpenExternal } from "../assets/Vector.svg";
 import { ReactComponent as Instagram } from "../assets/Instagram.svg";
+import { ReactComponent as Github } from "../assets/Github.svg";
 
 function Card(props) {
   return (
@@ -20,7 +21,7 @@ function Card(props) {
             ) : null}
             {props.github !== undefined ? (
               <a href={props.github}>
-                <img src={require("../assets/Github.png")} />
+                <Github />
               </a>
             ) : null}
             {props.link !== undefined ? (

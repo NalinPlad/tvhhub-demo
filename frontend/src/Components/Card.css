@@ -84,12 +84,8 @@
     display: inline-block;
 }
 
-.external > a svg {
-    display: inline-block;
-    vertical-align: middle;
-}
-
-.external > a img {
+.external > a > * {
+    height: 20px;
     display: inline-block;
     vertical-align: middle;
 }
