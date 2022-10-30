@@ -9,7 +9,7 @@
 }
 
 .card-grid {
-  margin-top: 20px;
+  margin-top: 30px;
   padding-bottom: 30px;
   width: 100vw;
   position: absolute;
@@ -17,7 +17,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 0px;
 }
 
 .logo {
@@ -81,6 +80,7 @@
 }
 
 .footer {
+  z-index: 999;
   font-size: 10pt;
   color: white;
   margin-left: 20px;
@@ -88,13 +88,26 @@
   padding-top: 2px;
   padding-bottom: 2px;
   font-family: "FiraCode";
-  display: inline-block;
-  background-color: rgba(0,0,0,0.5);
-  border-radius: 5px;
+  display: flex;
 
   margin-bottom: 10px;
 }
 
+@media only screen and (max-width: 800px) {
+
+  .footer {
+    justify-content: center;
+  }
+
+}
+
+.footer > p {
+  padding: 10px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 5px;
+}
+
 .footer > p > a {
+  cursor: pointer;
   color: white;
 }
