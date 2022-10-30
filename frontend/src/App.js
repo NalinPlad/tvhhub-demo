@@ -27,11 +27,11 @@ function App() {
           <img className="logo" src={require("./assets/TRIVALLEY4 1.png")} />
           <div className="headText">
             <p className="title">TRI HUB</p>
-            <p className="created-by">CREATED BY AJITH, BYRON, AND NIGEL</p>
+            <p className="created-by">
+              A collection of software based projects, events, and educational
+              material.<br></br>Created by Ajith, Byron, and Nigel in 24 hours.
+            </p>
           </div>
-        </div>
-        <div className="headRight">
-          <p>A collection of software based projects, events, and educational material. Made in 24 hours with 🫀</p>
         </div>
       </section>
 
