@@ -1,19 +1,7 @@
 .card-grid {
-  font-family: 'Work Sans', sans-serif;
-  color: white;
-  background-color: black;
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-  flex-basis: 30%;
-  justify-content: center;
-  overflow-y: scroll;
-  
-  padding-top:40px;
-  height: 60vh;
-  padding-bottom: 40px;
-
   position: absolute;
+  display: flex;
+  top: 250px;
   left: 50%;
   transform: translate(-50%, 0px);
 }
@@ -27,8 +15,8 @@
 
 .title {
   position: absolute;
-  top: 18px;
-  left: 150px;
+  top: 20px;
+  left: 160px;
   font-family: "Fjalla One";
   color: #D7D7D7;
   font-size: 38pt;
@@ -37,13 +25,9 @@
 
 .created-by {
   position: absolute;
-  top: 119px;
-  left: 150px;
+  top: 80px;
+  left: 160px;
   font-family: "Fira Code";
   color: white;
   
-}
-
-.App {
-  background-color: #363636;
 }
