@@ -15,17 +15,17 @@ function Card(props) {
           <p className="cardCreator">{props.creator}</p>
           <div className="external">
             {props.instagram !== undefined ? (
-              <a href={props.instagram}>
+              <a href={props.instagram} target="_blank" rel="noopener noreferrer">
                 <Instagram />
               </a>
             ) : null}
             {props.github !== undefined ? (
-              <a href={props.github}>
+              <a href={props.github} target="_blank" rel="noopener noreferrer">
                 <Github />
               </a>
             ) : null}
             {props.link !== undefined ? (
-              <a href={props.link}>
+              <a href={props.link} target="_blank" rel="noopener noreferrer">
                 <OpenExternal />
               </a>
             ) : null}
