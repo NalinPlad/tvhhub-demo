@@ -1,14 +1,6 @@
 {
     "projects": [
         {
-            "name": "Danimals",
-            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
-            "creator": "Piffle Inc.",
-            "link": "https://danimals.vercel.app/",
-            "github": "https://github.com/Whackalenso/danimals",
-            "bio": "A fun and creative animal sound simulator that lets you make animal noises."
-        },
-        {
             "name": "Evergreen",
             "img": "",
             "creator": "Subham Patilsd",
@@ -16,18 +8,25 @@
             "bio": "A way to get fresh produce from your community."
         },
         {
+            "name": "Easy Gas",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/gasstation.png?raw=true",
+            "creator": "Neil Sarkar",
+            "link": "https://trivalleyhacks2022.asmallyawn.repl.co/",
+            "bio": "Find the cheapest gas station in your area, and an algorithm will predict the future price."
+        },
+        {
             "name": "Fire Sim",
             "img": "https://lh5.googleusercontent.com/XBdqZwb0q0wIeqSnEk6sxNpFbTK--NZ_ZPko98lJ-Myx_iyNfGuE8I3-bN3eGoDM2tW6xwk3EPYjh2fz8nJiHyIjp-A4sxIwJ6FC0ubowuYDCxrqEnHzSUCt1XX12sTikCN8brdHaJnJSRA-y9AtzDmARewpvd3Pn83AL9RJS7DEhvqBTa4GHB7MFtkB24Xq",
             "creator": "Bryan Turns",
             "github": "https://github.com/BryanTurns/fire-sim",
-            "bio": "Fire simulation"
+            "bio": "Simulation software for modeling fire spread."
         },
         {
             "name": "Lemon Sun Sage",
             "img": "",
             "creator": "Amador Dons",
             "github": "https://github.com/sohamgarg2020/TriValley-Hacks",
-            "bio": "A map based carpooling service"
+            "bio": "A map based carpooling service."
         },
         {
             "name": "Bond",
@@ -36,11 +35,12 @@
             "bio": "Helps users connect to local businesses." 
         },
         {
-            "name": "Easy Gas",
-            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/gasstation.png?raw=true",
-            "creator": "Neil Sarkar",
-            "link": "https://trivalleyhacks2022.asmallyawn.repl.co/map",
-            "bio": "Find the cheapest gas station in your area, and an algorithm will predict the future price."
+            "name": "Danimals",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
+            "creator": "Piffle Inc.",
+            "link": "https://danimals.vercel.app/",
+            "github": "https://github.com/Whackalenso/danimals",
+            "bio": "A fun and creative animal sound simulator that lets you make animal noises."
         },
         {
             "name": "ImageMagick",
