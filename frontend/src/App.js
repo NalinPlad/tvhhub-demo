@@ -36,6 +36,9 @@ function App() {
       </section>
 
       <div className="card-grid">{cards}</div>
+      <section className="footer">
+        <p>Don't see your project? <a href="mailto:whackalenso@gmail.com">Submit it!</a></p>
+      </section>
     </div>
   );
 }
