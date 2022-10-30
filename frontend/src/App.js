@@ -22,6 +22,9 @@ function App() {
 
   return (
     <div className="App">
+      <img className="logo" src={require("./assets/TRIVALLEY4 1.png")} />
+      <p className="title">TRI HUB</p>
+      <p className="created-by">CREATED BY AJITH, BYRON, AND NIGEL</p>
       <div>{cards}</div>
     </div>
   );

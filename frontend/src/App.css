@@ -17,3 +17,33 @@
   left: 50%;
   transform: translate(-50%, 0px);
 }
+
+.logo {
+  height: 120px;
+  position: absolute;
+  top: 18px;
+  left: 18px;
+}
+
+.title {
+  position: absolute;
+  top: 18px;
+  left: 150px;
+  font-family: "Fjalla One";
+  color: #D7D7D7;
+  font-size: 38pt;
+  margin: 0;
+}
+
+.created-by {
+  position: absolute;
+  top: 119px;
+  left: 150px;
+  font-family: "Fira Code";
+  color: white;
+  
+}
+
+.App {
+  background-color: #363636;
+}
