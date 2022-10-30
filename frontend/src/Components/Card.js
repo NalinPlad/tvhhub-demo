@@ -1,5 +1,6 @@
 import "./Card.css";
 import { ReactComponent as OpenExternal } from "../assets/Vector.svg";
+import { ReactComponent as Instagram } from "../assets/Instagram.svg";
 
 function Card(props) {
   return (
@@ -12,14 +13,21 @@ function Card(props) {
         <div className="bottomRow">
           <p className="cardCreator">{props.creator}</p>
           <div className="external">
-            <a href={props.github}>
-              <img
-                src={require("../assets/GitHub-Mark-Light-120px-plus 1.png")}
-              />
-            </a>
-            <a href={props.link}>
-              <OpenExternal />
-            </a>
+            {props.instagram !== undefined ? (
+              <a href={props.instagram}>
+                <Instagram />
+              </a>
+            ) : null}
+            {props.github !== undefined ? (
+              <a href={props.github}>
+                <img src={require("../assets/Github.png")} />
+              </a>
+            ) : null}
+            {props.link !== undefined ? (
+              <a href={props.link}>
+                <OpenExternal />
+              </a>
+            ) : null}
           </div>
         </div>
       </div>
