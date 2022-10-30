@@ -29,6 +29,14 @@
             "bio": "A map based carpooling service."
         },
         {
+            "name": "CAL Fire Map",
+            "img": "",
+            "creator": "CA.gov",
+            "link": "https://www.fire.ca.gov/incidents/",
+            "instagram": "https://www.instagram.com/calfire",
+            "bio": "A live map displaying current fire incidents in California run by Cal Fire."
+        },
+        {
             "name": "Bond",
             "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/BOND.png?raw=true",
             "creator": "James Bond",
