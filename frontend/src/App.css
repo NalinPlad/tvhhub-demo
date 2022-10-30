@@ -1,4 +1,9 @@
 @font-face {
+  font-family: Jost;
+  src: url(Jost/Jost-VariableFont_wght.ttf);
+}
+
+@font-face {
   font-family: FiraCode;
   src: url(Fira_Code/FiraCode-VariableFont_wght.ttf);
 }
@@ -24,6 +29,7 @@
   margin: 20px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .headText {
@@ -32,12 +38,39 @@
   flex-direction: column;
 }
 
+.headLeft {
+  display: flex;
+  align-items: center;
+}
+
+.headRight {
+  width: 450px;
+}
+
+.headRight > p {
+  font-family: "Jost";
+  font-size: 15pt;
+  text-align: right;
+  color: white;
+  
+  padding: 5px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 5px;
+}
+
+
 .title {
   top: 20px;
   font-family: "Fjalla One";
   color: white;
   font-size: 38pt;
   margin: 0;
+}
+
+.titleDim {
+  margin: 0px;
+  color: #8d93b0;
+  font-size: 20pt;
 }
 
 .created-by {

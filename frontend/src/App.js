@@ -23,10 +23,15 @@ function App() {
   return (
     <div className="App">
       <section className="head">
-        <img className="logo" src={require("./assets/TRIVALLEY4 1.png")} />
-        <div className="headText">
-          <p className="title">TRI HUB</p>
-          <p className="created-by">CREATED BY AJITH, BYRON, AND NIGEL</p>
+        <div className="headLeft">
+          <img className="logo" src={require("./assets/TRIVALLEY4 1.png")} />
+          <div className="headText">
+            <p className="title">TRI HUB</p>
+            <p className="created-by">CREATED BY AJITH, BYRON, AND NIGEL</p>
+          </div>
+        </div>
+        <div className="headRight">
+          <p>A collection of software based projects, events, and educational material. Made in 24 hours with 🫀</p>
         </div>
       </section>
 
