@@ -1,5 +1,6 @@
 body {
   overflow-x: hidden;
+  overscroll-behavior-y: none;
   /* background-color: #292A2D; */
 
   /* background: #283048;
