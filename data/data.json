@@ -5,13 +5,13 @@
             "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
             "creator": "Piffle Inc.",
             "link": "https://danimals.vercel.app/",
-            "github": "https://github.com/Whackalenso/ass-app",
+            "github": "https://github.com/Whackalenso/danimals",
             "bio": "A fun and creative animal sound simulator that lets you make animal noises."
         },
         {
             "name": "Evergreen",
             "img": "",
-            "creator": "SubhamPatilsd",
+            "creator": "Subham Patilsd",
             "github": "https://github.com/ShubhamPatilsd/evergreen",
             "bio": "A way to get fresh produce from your community."
         },
@@ -28,6 +28,19 @@
             "creator": "Amador Dons",
             "github": "https://github.com/sohamgarg2020/TriValley-Hacks",
             "bio": "A map based carpooling service"
+        },
+        {
+            "name": "Bond",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/BOND.png?raw=true",
+            "creator": "James Bond",
+            "bio": "Helps users connect to local businesses." 
+        },
+        {
+            "name": "Easy Gas",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/gasstation.png?raw=true",
+            "creator": "Neil Sarkar",
+            "link": "https://trivalleyhacks2022.asmallyawn.repl.co/map",
+            "bio": "Find the cheapest gas station in your area, and an algorithm will predict the future price."
         },
         {
             "name": "ImageMagick",
