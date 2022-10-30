@@ -3,18 +3,34 @@
         {
             "name": "Danimals",
             "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
-            "creator": "Jeff Bezos",
+            "creator": "Us",
             "link": "https://danimals.vercel.app/",
             "github": "https://github.com/Whackalenso/ass-app",
             "bio": "A fun and creative animal sound simulator that lets you make animal noises."
         },
         {
-            "name": "sus",
-            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
-            "creator": "Jeff Beaners",
-            "link": "https://google.com/",
-            "github": "https://github.com/",
-            "bio": "Not fun and terrible game that is so ass that is bad"
+            "name": "ImageMagick",
+            "img": "https://camo.githubusercontent.com/d108320692f0c676af0aee5c34be0f3cc854e7398a2691ffe54c5f289aff0d4b/68747470733a2f2f696d6167656d616769636b2e6f72672f696d6167652f77697a6172642e706e67",
+            "creator": "dlemstra",
+            "link": "https://imagemagick.org/index.php",
+            "github": "https://github.com/ImageMagick/ImageMagick",
+            "bio": "Use ImageMagick® to create, edit, compose, or convert digital images."
+        },
+        {
+            "name": "MonkeyType",
+            "img": "https://github.com/monkeytypegame/monkeytype/raw/master/frontend/static/images/githubbanner2.png?raw=true",
+            "creator": "Miodec",
+            "link": "https://monkeytype.com/",
+            "github": "https://github.com/monkeytypegame/monkeytype",
+            "bio": "The most customizable typing website with a minimalistic design and a ton of features."
+        },
+        {
+            "name": "The Eternal Jukebox",
+            "img": "https://eternalbox.dev/files/eternal.png",
+            "creator": "Paul Lemere",
+            "link": "https://eternalbox.dev/jukebox_index.html",
+            "github": "https://github.com/UnderMybrella/EternalJukebox",
+            "bio": "Generates a never-ending and ever changing version of a song from spotify."
         }
     ]
 }
