@@ -1,5 +1,5 @@
 import "./App.css";
-import Card from "./components/Card";
+import Card from "./Components/Card";
 import { useState, useEffect } from "react";
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-      <div>{cards}</div>
+      <div className="card-grid">{cards}</div>
     </div>
   );
 }

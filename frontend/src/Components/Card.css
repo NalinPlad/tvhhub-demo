@@ -1,14 +1,81 @@
-.card {
-    margin: 10px;
-    width: 200px;
-    height: 260px;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    flex-direction: column;
-    cursor: pointer;
-
-    font-size: 20pt;
+@font-face {
+  font-family: Jost;
+  src: url(../Jost/Jost-VariableFont_wght.ttf);
 }
+
+.background-layer {
+  margin-top: 5px;
+  margin-inline: 150px;
+
+  border-radius: 7px;
+  overflow: hidden;
+  position: relative;
+  width: fit-content;
+  max-width: 350px;
+  height: fit-content;
+  background-color: black;
+  padding: 15px;
+}
+
+.bg-image {
+  filter: blur(1px);
+  opacity: 0.2;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 0;
+  top: 0;
+  width: 75%;
+  height: auto;
+}
+
+.card {
+  position: relative;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  flex-direction: column;
+  cursor: pointer;
+
+  font-family: Jost;
+
+  color: white;
+}
+
+.card > p {
+  margin: 2px;
+  text-align: left;
+}
+
+
+.cardName {
+  font-size: 23pt;
+}
+
+.cardBio {
+  font-size: 13pt;
+}
+
+.bottomRow {
+  height: 30px;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  align-self: flex-end;
+  margin-top: 50px;
+  margin-bottom: 5px;
+}
+
+.cardCreator {
+  font-size: 20pt;
+}
+
+.external {
+  font-size: 20pt;
+}
+
+
