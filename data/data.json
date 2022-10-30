@@ -1,33 +1,32 @@
 {
     "projects": [
         {
-            "name": "Danimals",
-            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
-            "creator": "Piffle Inc.",
-            "link": "https://danimals.vercel.app/",
-            "github": "https://github.com/Whackalenso/danimals",
-            "bio": "A fun and creative animal sound simulator that lets you make animal noises."
-        },
-        {
             "name": "Evergreen",
-            "img": "",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/Evergreen.png?raw=true",
             "creator": "Subham Patilsd",
             "github": "https://github.com/ShubhamPatilsd/evergreen",
-            "bio": "A way to get fresh produce from your community."
+            "bio": "The best way to quickly get fresh produce from neighbors in your community."
+        },
+        {
+            "name": "Easy Gas",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/gasstation.png?raw=true",
+            "creator": "Neil Sarkar",
+            "link": "https://trivalleyhacks2022.asmallyawn.repl.co/",
+            "bio": "Find the cheapest gas station in your area, and an algorithm will predict the future price."
         },
         {
             "name": "Fire Sim",
-            "img": "",
+            "img": "https://lh5.googleusercontent.com/XBdqZwb0q0wIeqSnEk6sxNpFbTK--NZ_ZPko98lJ-Myx_iyNfGuE8I3-bN3eGoDM2tW6xwk3EPYjh2fz8nJiHyIjp-A4sxIwJ6FC0ubowuYDCxrqEnHzSUCt1XX12sTikCN8brdHaJnJSRA-y9AtzDmARewpvd3Pn83AL9RJS7DEhvqBTa4GHB7MFtkB24Xq",
             "creator": "Bryan Turns",
             "github": "https://github.com/BryanTurns/fire-sim",
-            "bio": "Fire simulation"
+            "bio": "Simulation software for modeling fire spread."
         },
         {
             "name": "Lemon Sun Sage",
-            "img": "",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/maps.png?raw=true",
             "creator": "Amador Dons",
             "github": "https://github.com/sohamgarg2020/TriValley-Hacks",
-            "bio": "A map based carpooling service"
+            "bio": "A map based carpooling service."
         },
         {
             "name": "Bond",
@@ -36,11 +35,42 @@
             "bio": "Helps users connect to local businesses." 
         },
         {
-            "name": "Easy Gas",
-            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/gasstation.png?raw=true",
-            "creator": "Neil Sarkar",
-            "link": "https://trivalleyhacks2022.asmallyawn.repl.co/map",
-            "bio": "Find the cheapest gas station in your area, and an algorithm will predict the future price."
+            "name": "Tri-City Volunteers",
+            "img": "https://www.foodpantries.org/gallery/no_photo_3.jpg",
+            "creator": "Grace Draper",
+            "link": "https://www.tri-cityvolunteers.org/",
+            "instagram": "https://www.instagram.com/tricityvolunteers/",
+            "bio": "A nonprofit that distributes food, clothing and household items to families in desperate need."
+        },
+        {
+            "name": "City of Pleasanton Learning Resources",
+            "img": "https://www.foodpantries.org/gallery/no_photo_3.jpg",
+            "creator": "Grace Draper",
+            "link": "https://www.cityofpleasantonca.gov/iwantto/learn/default.asp/",
+            "bio": "Get information on many topics of life in Pleasanton, and learn about different services available to you."
+        },
+        {
+            "name": "Hack the Hood",
+            "img": "https://imprintnews.org/wp-content/uploads/2016/05/Image-5_Downing.png",
+            "creator": "Mary Fuller",
+            "link": "https://www.hackthehood.org/",
+            "instagram": "https://www.instagram.com/hackthehood/",
+            "bio": "Hack the hood provides youth and communities of color with tech skill-building programs and career navigation support that are grounded in justice and ensure economic mobility."
+        },
+        {
+            "name": "Tri-Valley Hackathon",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/trivalleyhackathonlogo.png?raw=true",
+            "creator": "Rahul Datta",
+            "link": "https://www.trivalleyhacks.org/",
+            "bio": "Tri-Valley hacks is the first 24 hour hackathon in Dublin-Pleasanton-Livermore area for high schoolers."
+        },
+        {
+            "name": "Danimals",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
+            "creator": "Piffle Inc.",
+            "link": "https://danimals.vercel.app/",
+            "github": "https://github.com/Whackalenso/danimals",
+            "bio": "A fun and creative animal sound simulator that lets you make animal noises."
         },
         {
             "name": "ImageMagick",
@@ -73,29 +103,6 @@
             "link": "https://code.visualstudio.com/",
             "github": "https://github.com/microsoft/vscode",
             "bio": "Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle."
-        },
-        {
-            "name": "Tri-City Volunteers",
-            "img": "https://www.foodpantries.org/gallery/no_photo_3.jpg",
-            "creator": "Grace Draper",
-            "link": "https://www.tri-cityvolunteers.org/",
-            "instagram": "https://www.instagram.com/tricityvolunteers/",
-            "bio": "A nonprofit that distributes food, clothing and household items to families in desperate need."
-        },
-        {
-            "name": "Hack the Hood",
-            "img": "https://imprintnews.org/wp-content/uploads/2016/05/Image-5_Downing.png",
-            "creator": "Mary Fuller",
-            "link": "https://www.hackthehood.org/",
-            "instagram": "https://www.instagram.com/hackthehood/",
-            "bio": "Hack the hood provides youth and communities of color with tech skill-building programs and career navigation support that are grounded in justice and ensure economic mobility."
-        },
-        {
-            "name": "Tri-Valley Hackathon",
-            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/trivalleyhackathonlogo.png?raw=true",
-            "creator": "Rahul Datta",
-            "link": "https://www.trivalleyhacks.org/",
-            "bio": "Tri-Valley hacks is the first 24 hour hackathon in Dublin-Pleasanton-Livermore area for high schoolers."
         },
         {
             "name": "Hkkr.in",
