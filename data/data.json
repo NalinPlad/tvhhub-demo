@@ -5,14 +5,16 @@
             "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
             "creator": "Jeff Bezos",
             "link": "https://danimals.vercel.app/",
-            "github": "https://github.com/Whackalenso/ass-app"
+            "github": "https://github.com/Whackalenso/ass-app",
+            "bio": "A fun and creative animal sound simulator that lets you make animal noises."
         },
         {
             "name": "sus",
             "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
             "creator": "Jeff Beaners",
             "link": "https://google.com/",
-            "github": "https://github.com/"
+            "github": "https://github.com/",
+            "bio": "Not fun and terrible game that is so ass that is bad"
         }
     ]
 }
