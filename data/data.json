@@ -16,5 +16,12 @@
             "github": "https://github.com/",
             "bio": "Not fun and terrible game that is so ass that is bad"
         }
+        {
+            "name": "VSCode",
+            "img": "https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png",
+            "creator": "Erich Gamma",
+            "link": "https://code.visualstudio.com/",
+            "github": "https://github.com/microsoft/vscode",
+            "bio": "Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle."
     ]
 }
