@@ -47,6 +47,28 @@
             "link": "https://www.tri-cityvolunteers.org/",
             "instagram": "https://www.instagram.com/tricityvolunteers/",
             "bio": "A nonprofit that distributes food, clothing and household items to families in desperate need."
+        },
+        {
+            "name": "Hack the Hood",
+            "img": "https://imprintnews.org/wp-content/uploads/2016/05/Image-5_Downing.png",
+            "creator": "Mary Fuller",
+            "link": "https://www.hackthehood.org/",
+            "instagram": "https://www.instagram.com/hackthehood/",
+            "bio": "Hack the hood provides youth and communities of color with tech skill-building programs and career navigation support that are grounded in justice and ensure economic mobility."
+        },
+        {
+            "name": "Tri-Valley Hackathon",
+            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Ftri-valley-hacks-tickets-444906406037&psig=AOvVaw0Fk__BanxB3Bx9bn1omv0e&ust=1667197626723000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjKjaaph_sCFQAAAAAdAAAAABAD",
+            "creator": "Rahul Datta",
+            "link": "https://www.trivalleyhacks.org/",
+            "bio": "Tri-Valley hacks is the first 24 hour hackathon in Dublin-Pleasanton-Livermore area for high schoolers."
+        },
+        {
+            "name": "Hkkr.in",
+            "img":  "https://github.com/Whackalenso/tvhhub/blob/main/data/images/hackernews.png?raw=true",
+            "creator": "NalinPlad",
+            "github": "https://github.com/NalinPlad/hkkr.in",
+            "bio": "CURL client for Hacker News. Read HN in the terminal!."
         }
     ]
 }

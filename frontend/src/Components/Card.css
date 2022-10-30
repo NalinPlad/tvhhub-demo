@@ -15,10 +15,10 @@
   height: fit-content;
   background-color: black;
   padding: 15px;
+  box-shadow: rgba(17, 17, 26, 0.3) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
 }
 
 .bg-image {
-  filter: blur(1px);
   opacity: 0.2;
   position: absolute;
   left: 0;
@@ -39,6 +39,7 @@
   font-family: Jost;
 
   color: white;
+
 }
 
 .card > p {

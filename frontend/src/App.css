@@ -27,23 +27,21 @@
 }
 
 .headText {
-  margin-left: 10px;
+  margin-left: 20px;
   display: flex;
   flex-direction: column;
 }
 
 .title {
   top: 20px;
-  left: 160px;
   font-family: "Fjalla One";
-  color: #D7D7D7;
+  color: white;
   font-size: 38pt;
   margin: 0;
 }
 
 .created-by {
   top: 80px;
-  left: 160px;
   font-family: "FiraCode";
-  color: white;  
+  color: #D7D7D7;
 }
