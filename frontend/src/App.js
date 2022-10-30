@@ -1,5 +1,5 @@
 import "./App.css";
-import Card from "./components/Card";
+import Card from "./Components/Card";
 import { useState, useEffect } from "react";
 
 function App() {
@@ -22,9 +22,14 @@ function App() {
 
   return (
     <div className="App">
-      <img className="logo" src={require("./assets/TRIVALLEY4 1.png")} />
-      <p className="title">TRI HUB</p>
-      <p className="created-by">CREATED BY AJITH, BYRON, AND NIGEL</p>
+      <section className="head">
+        <img className="logo" src={require("./assets/TRIVALLEY4 1.png")} />
+        <div className="headText">
+          <p className="title">TRI HUB</p>
+          <p className="created-by">CREATED BY AJITH, BYRON, AND NIGEL</p>
+        </div>
+      </section>
+
       <div className="card-grid">{cards}</div>
     </div>
   );

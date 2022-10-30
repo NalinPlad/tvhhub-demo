@@ -1,20 +1,37 @@
+@font-face {
+  font-family: FiraCode;
+  src: url(Fira_Code/FiraCode-VariableFont_wght.ttf);
+}
+
 .card-grid {
+  margin-top: 20px;
+  width: 100vw;
   position: absolute;
+  
   display: flex;
-  top: 250px;
-  left: 50%;
-  transform: translate(-50%, 0px);
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .logo {
   height: 120px;
-  position: absolute;
   top: 18px;
   left: 18px;
 }
 
+.head {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.headText {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
 .title {
-  position: absolute;
   top: 20px;
   left: 160px;
   font-family: "Fjalla One";
@@ -24,10 +41,8 @@
 }
 
 .created-by {
-  position: absolute;
   top: 80px;
   left: 160px;
-  font-family: "Fira Code";
-  color: white;
-  
+  font-family: "FiraCode";
+  color: white;  
 }
