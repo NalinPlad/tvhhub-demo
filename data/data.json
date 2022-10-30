@@ -11,7 +11,7 @@
         {
             "name": "Evergreen",
             "img": "",
-            "creator": "SubhamPatilsd",
+            "creator": "Subham Patilsd",
             "github": "https://github.com/ShubhamPatilsd/evergreen",
             "bio": "A way to get fresh produce from your community."
         },
@@ -31,7 +31,7 @@
         },
         {
             "name": "Bond",
-            "img": "",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/BOND.png?raw=true",
             "creator": "James Bond",
             "bio": "Helps users connect to local businesses." 
         },
