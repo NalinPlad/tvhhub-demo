@@ -39,6 +39,14 @@
             "link": "https://code.visualstudio.com/",
             "github": "https://github.com/microsoft/vscode",
             "bio": "Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle."
+        },
+        {
+            "name": "Tri-City Volunteers",
+            "img": "https://www.foodpantries.org/gallery/no_photo_3.jpg",
+            "creator": "Grace Draper",
+            "link": "https://www.tri-cityvolunteers.org/",
+            "instagram": "https://www.instagram.com/tricityvolunteers/",
+            "bio": "A nonprofit that distributes food, clothing and household items to families in desperate need."
         }
     ]
 }
