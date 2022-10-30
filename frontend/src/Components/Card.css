@@ -75,6 +75,21 @@
 
 .external {
   font-size: 20pt;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
+.external > a {
+    display: inline-block;
+}
 
+.external > a svg {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.external > a img {
+    display: inline-block;
+    vertical-align: middle;
+}
