@@ -2,7 +2,7 @@
     "projects": [
         {
             "name": "Evergreen",
-            "img": "",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/Evergreen.png?raw=true",
             "creator": "Subham Patilsd",
             "github": "https://github.com/ShubhamPatilsd/evergreen",
             "bio": "The best way to quickly get fresh produce from neighbors in your community."
@@ -23,7 +23,7 @@
         },
         {
             "name": "Lemon Sun Sage",
-            "img": "",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/maps.png?raw=true",
             "creator": "Amador Dons",
             "github": "https://github.com/sohamgarg2020/TriValley-Hacks",
             "bio": "A map based carpooling service."
