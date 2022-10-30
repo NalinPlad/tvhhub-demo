@@ -4,12 +4,12 @@
 }
 
 .background-layer {
-  margin-top: 50px;
-  margin-inline: 50px;
+    margin-top: 50px;
+    margin-inline: 50px;
 
-  border-radius: 7px;
-  overflow: hidden;
-  position: relative;
+    border-radius: 7px;
+    overflow: hidden;
+    position: relative;
   width: fit-content;
   max-width: 350px;
   height: fit-content;
