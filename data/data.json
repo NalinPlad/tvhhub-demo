@@ -43,6 +43,13 @@
             "bio": "A nonprofit that distributes food, clothing and household items to families in desperate need."
         },
         {
+            "name": "City of Pleasanton Learning Resources",
+            "img": "https://www.foodpantries.org/gallery/no_photo_3.jpg",
+            "creator": "Grace Draper",
+            "link": "https://www.cityofpleasantonca.gov/iwantto/learn/default.asp/",
+            "bio": "Get information on many topics of life in Pleasanton, and learn about different services available to you."
+        },
+        {
             "name": "Hack the Hood",
             "img": "https://imprintnews.org/wp-content/uploads/2016/05/Image-5_Downing.png",
             "creator": "Mary Fuller",
