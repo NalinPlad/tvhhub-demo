@@ -2,10 +2,17 @@
     "projects": [
         {
             "name": "Danimals",
-            "img": "https://raw.githubusercontent.com/Whackalenso/tvhhub/main/frontend/data/images/danimals.png",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
             "creator": "Jeff Bezos",
             "link": "https://danimals.vercel.app/",
             "github": "https://github.com/Whackalenso/ass-app"
+        },
+        {
+            "name": "sus",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/danimals.png?raw=true",
+            "creator": "Jeff Beaners",
+            "link": "https://google.com/",
+            "github": "https://github.com/"
         }
     ]
 }
