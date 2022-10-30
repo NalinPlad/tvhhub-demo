@@ -36,6 +36,13 @@
             "bio": "Helps users connect to local businesses." 
         },
         {
+            "name": "Easy Gas",
+            "img": "https://github.com/Whackalenso/tvhhub/blob/main/data/images/gasstation.png?raw=true",
+            "creator": "Neil Sarkar",
+            "link": "https://trivalleyhacks2022.asmallyawn.repl.co/map",
+            "bio": "Find the cheapest gas station in your area, and an algorithm will predict the future price."
+        },
+        {
             "name": "ImageMagick",
             "img": "https://camo.githubusercontent.com/d108320692f0c676af0aee5c34be0f3cc854e7398a2691ffe54c5f289aff0d4b/68747470733a2f2f696d6167656d616769636b2e6f72672f696d6167652f77697a6172642e706e67",
             "creator": "dlemstra",
